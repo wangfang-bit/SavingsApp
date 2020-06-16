@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sum">请输入储蓄金额</string>
+    <string name="time">请输入存款期限(年)</string>
+    <string name="type">请选择存款方式</string>
+    <string name="bank">请选择存款银行</string>
+    <string name="open">获取利率</string>
+    <string name="save">保存</string>
+    <string name="rate">查询利息</string>
+    <string name="setting">设置</string>
+    <string name="app_name">储蓄利息计算</string>
+    <string name="list">银行利率表</string>
+</resources>

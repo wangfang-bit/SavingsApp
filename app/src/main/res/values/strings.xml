@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SavingsApp</string>
+    <string name="sum">Sum</string>
+    <string name="time">Time</string>
+    <string name="type">Type</string>
+    <string name="bank">Bank</string>
+    <string name="query">Query</string>
+    <string name="open">Open</string>
+    <string name="save">Save</string>
+    <string name="rate">Rate</string>
+    <string name="list">List</string>
+    <string name="setting">Setting</string>
+</resources>
